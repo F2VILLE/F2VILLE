@@ -4,7 +4,7 @@
 <p align="left"> <img id="vcnt" src="https://komarev.com/ghpvc/?username=f2ville&label=Profile%20views&color=0e75b6&style=flat" alt="f2ville" /> </p>
 
 <p align="left"> <a href="https://twitter.com/f2ville_dev" target="blank"><img src="https://img.shields.io/twitter/follow/f2ville_dev?logo=twitter&style=for-the-badge" alt="f2ville_dev" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/f2ville_dev" target="blank"><img src="https://shields.io/youtube/channel/subscribers/UC7b-cEYs1Nn4sXnTiqcO3rQ?style=for-the-badge&logo=youtube" alt="f2ville_dev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/f2ville_dev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" alt="f2ville_dev" height="30" width="40" /></a>
