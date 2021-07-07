@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm F2Ville</h1>
-<h3 align="center">A 16 years IT passionate student.<br/>My primary activity in life is programming, but I also really love music and all forms of art.</h3>
+<h3 align="center">A 17 years IT passionate student.<br/>My primary activity in life is programming, but I also really love music and all forms of art.</h3>
 
 <p align="left"> <img id="vcnt" src="https://komarev.com/ghpvc/?username=f2ville&label=Profile%20views&color=0e75b6&style=flat" alt="f2ville" /> </p>
 
