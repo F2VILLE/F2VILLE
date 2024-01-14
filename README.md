@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/f2ville_dev" target="blank"><img align="center" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="f2ville_dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/f2ville" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="f2ville" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/f2ville" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="f2ville" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
