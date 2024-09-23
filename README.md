@@ -2,6 +2,7 @@
 <h3 align="center">A 19 years IT passionate student.<br/>My primary activity in life is programming, but I also really love music and all forms of art.</h3>
 
 <p align="left"> <img id="vcnt" src="https://komarev.com/ghpvc/?username=f2ville&label=Profile%20views&color=0e75b6&style=flat" alt="f2ville" /> </p>
+<p align="left"> <img id="wakapi" src="https://wakapi.f2ville.dev/api/badge/F2Ville/F2Ville/interval:30_days?label=last%2030d" alt="time" /> </p>
 
 <p align="left"> <a href="https://twitter.com/f2ville_dev" target="blank"><img src="https://img.shields.io/twitter/follow/f2ville_dev?logo=twitter&style=for-the-badge" alt="f2ville_dev" /></a> </p>
 <p align="left"> <a href="https://www.youtube.com/channel/UC7b-cEYs1Nn4sXnTiqcO3rQ" target="blank"><img src="https://shields.io/youtube/channel/subscribers/UC7b-cEYs1Nn4sXnTiqcO3rQ?style=for-the-badge&logo=youtube" alt="f2ville_dev" /></a> </p>
