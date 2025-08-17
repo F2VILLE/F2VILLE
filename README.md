@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1154375815312711752/1406460148268011601/logo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpjaDUyYWo3dzlxamE0bnpodDhpeHU0Nm54ZHF2aWRscHNvYzFpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aOQqChErup0CYbuFK6/giphy.gif"  />
 
 ###
 
