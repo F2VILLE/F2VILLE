@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1154375815312711752/1406460148268011601/logo.gif"  />
 
 ###
 
